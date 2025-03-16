@@ -1,4 +1,4 @@
-package com.yellow.kgmuserservice.mapper;
+package com.yellow.kgmuserservice.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
